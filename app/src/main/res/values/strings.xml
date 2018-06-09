@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zad 6</string>
+    <string name="record">Record</string>
+    <string name="stop">STOP</string>
+    <string name="play">Play</string>
+    <string name="stop_playing_recording">STOP PLAYING RECORDING</string>
+    <string name="podaj_nazwe_pliku">Podaj nazwe pliku</string>
+    <string name="pokaz_nagrania">Pokaz nagrania</string>
+</resources>
